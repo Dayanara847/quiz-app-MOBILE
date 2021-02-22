@@ -1,3 +1,9 @@
+#quizApp_MOBILE
+
+Proyecto de plataforma de uso institucional con creación de evaluaciones (quizzes).
+
+Para la aplicación se utilizó angular-ionic.
+
 To install all the modules: on the directory of your app, type ---> npm install
 To start the app: on the directory of your app, type ---> ionic serve
 
